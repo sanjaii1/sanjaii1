@@ -26,7 +26,11 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **bsanjay235@gmail.com**
 
-- <h2>Upcoming Projects</h2>
+
+
+
+<h2>Upcoming Projects</h2>
+
 <ol>
   <li>Todo List App
 </li>
