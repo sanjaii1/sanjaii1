@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaii1&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaii1" /> </p>
 
-- 🔭 I’m currently working on [Product App](https://github.com/sanjaii1/Product-App-MERN-.git)
+- 🔭 I’m currently working on [Authentication](https://github.com/sanjaii1/MERN-Authentication)
 
 - 🌱 I’m currently learning **React.js, Next.js, Node.js, MongoDB, Express.js ,**
 
