@@ -29,24 +29,21 @@ Here are some ideas to get you started:
 
 
 
-<h2>Upcoming Projects</h2>
 
+
+<h3>Upcoming Projects</h3>
 <ol>
-  <li>Todo List App
-</li>
+  <li>Todo List App</li>
   <li>E-commerce Website</li>
   <li>Weather app</li>
   <li>Authentication System</li>
   <li>File uploader</li>
-  <li>Payment Gateway integration
-</li>
+  <li>Payment Gateway integration</li>
   <li>Netflix Clone </li>
   <li>Chat app</li>
   <li>RESTful Api</li>
-  <li>Blogging Platform
-</li>
+  <li>Blogging Platform</li>
   <li>Task Management App</li>
-  
 </ol>
 
 <h3 align="left">Connect with me:</h3>
