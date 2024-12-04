@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <hr>
 <h3>Upcoming Projects</h3>
 <ol>
-  <li>**Authentication System** (progress)</li>
+  <li><strong>Authentication System</strong> (progress)</li>
   <li>Todo List App</li>
   <li>E-commerce Website</li>
   <li>Weather app</li>
