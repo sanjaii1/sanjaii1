@@ -27,25 +27,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me **bsanjay235@gmail.com**
 
 
-
-
-
-
-<h3>Upcoming Projects</h3>
-<ol>
-  <li>Todo List App</li>
-  <li>E-commerce Website</li>
-  <li>Weather app</li>
-  <li>Authentication System</li>
-  <li>File uploader</li>
-  <li>Payment Gateway integration</li>
-  <li>Netflix Clone </li>
-  <li>Chat app</li>
-  <li>RESTful Api</li>
-  <li>Blogging Platform</li>
-  <li>Task Management App</li>
-</ol>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sanjaii1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjaii1" height="30" width="40" /></a>
@@ -60,3 +41,19 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjaii1&show_icons=true&locale=en" alt="sanjaii1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaii1&" alt="sanjaii1" /></p>
+
+<hr>
+<h3>Upcoming Projects</h3>
+<ol>
+  <li>**Authentication System** (progress)</li>
+  <li>Todo List App</li>
+  <li>E-commerce Website</li>
+  <li>Weather app</li>
+  <li>File uploader</li>
+  <li>Payment Gateway integration</li>
+  <li>Netflix Clone </li>
+  <li>Chat app</li>
+  <li>RESTful Api</li>
+  <li>Blogging Platform</li>
+  <li>Task Management App</li>
+</ol>
