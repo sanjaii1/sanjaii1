@@ -1,210 +1,107 @@
-<h1 align="center">Hi 👋, I'm Sanjai Babu S</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack MERN Developer • Next.js • React • Node.js • Building Modern SaaS Applications
-</h3>
+<h1>Hi, I'm Sanjai Babu S 👋</h1>
 
-<p align="center">
-Passionate about building scalable web applications, intuitive user experiences, and high-performance backend systems.
-</p>
+<h3>MERN Stack Developer • Founder @ Arcadium</h3>
 
-<p align="center">
-<a href="https://github.com/sanjaii1">
-<img src="https://komarev.com/ghpvc/?username=sanjaii1&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<a href="https://linkedin.com/in/sanjaii1" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=550&lines=Building+full-stack+products+with+the+MERN+stack;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB+%7C+TypeScript;Running+Arcadium+%E2%80%94+a+digital+agency+for+startups+%26+SMBs;Currently+building+RBMS+%E2%80%94+a+QR-based+restaurant+platform" alt="Typing SVG" />
 </a>
 
-<a href="https://github.com/sanjaii1?tab=followers">
-<img src="https://img.shields.io/github/followers/sanjaii1?style=for-the-badge"/>
-</a>
+<br/>
 
-<a href="https://github.com/sanjaii1">
-<img src="https://img.shields.io/github/stars/sanjaii1?style=for-the-badge"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=sanjaii1&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaii1" />
+<img src="https://img.shields.io/badge/Based%20in-Kerala%2C%20India-0e75b6?style=flat" alt="location" />
 
-</p>
+</div>
 
 ---
 
-# 🚀 About Me
+### 🧭 About Me
 
-- 💻 Full Stack MERN Developer
-- ⚡ Building scalable SaaS applications
-- 🌱 Currently learning
-  - Next.js
-  - TypeScript
-  - System Design
-  - AI Integrations
-- 🔥 Interested in
-  - Web Applications
-  - SaaS Products
-  - Restaurant POS Systems
-  - SEO & AI Search (AEO/GEO)
-- 💬 Ask me about
-  - React
-  - Next.js
-  - Node.js
-  - Express
-  - MongoDB
-  - REST APIs
+- 💻 MERN Stack Developer with **3+ years** of experience building web applications end-to-end
+- 🏢 Founder of **Arcadium** — a digital agency delivering full-stack products, SRS/technical docs, and SEO/consulting services for startups and SMBs
+- 🧱 Previously worked at **Marketlube** and **Frugal Scientific Pvt. Ltd.**
+- 🔭 Currently building **RBMS (Resto-Bar Management System)** — a QR-code-based table ordering & restaurant management platform (Next.js 14, Node.js, MongoDB, Socket.io, Razorpay)
+- 🌱 Deepening my knowledge of scalable architecture, multi-tenant SaaS systems, and Indian payment/GST-compliant billing infrastructure
+- 💬 Ask me about **React, Next.js, Node.js, Express, MongoDB, TypeScript, Redux Toolkit**
+- 📫 Reach me at **bsanjay235@gmail.com**
 
 ---
 
-# 🌐 Connect With Me
+### 🛠️ Tech Stack
+
+**Languages**
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+**Frontend**
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+
+**Backend & Database**
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+
+**Tools & Platforms**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sanjaii1&show_icons=true&theme=default&hide_border=true" alt="sanjaii1 stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaii1&layout=compact&hide_border=true" alt="Top Languages"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaii1&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🚀 What I've Been Building
+
+| Project | Description |
+|---|---|
+| **RBMS** | QR-code table ordering & restaurant management system — Next.js, Node.js, MongoDB, Socket.io, Razorpay |
+| **Arcadium** | Digital agency delivering full-stack products, technical documentation, and SEO/consulting for startups & SMBs |
+| **MERN Authentication** | Reusable authentication system built with the MERN stack |
+
+---
+
+### 🤝 Connect With Me
 
 <p align="left">
-
-<a href="https://linkedin.com/in/sanjaii1">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://linkedin.com/in/sanjaii1" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="mailto:bsanjay235@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<a href="https://instagram.com/1150ft">
-<img src="https://skillicons.dev/icons?i=instagram"/>
+<a href="https://instagram.com/1150ft" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-
 </p>
 
----
-
-# 💻 Tech Stack
-
-### Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,js,ts,tailwind,bootstrap,sass"/>
-
-</p>
-
-### Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 🍽 Restaurant Management System
-
-A complete Restaurant ERP including
-
-- POS
-- QR Ordering
-- Kitchen Display
-- Bar Management
-- Inventory
-- Multi-Branch Management
-- Billing
-- Reports
-
-**Tech**
-
-React • Node • MongoDB • Redux
-
----
-
-### 🔐 MERN Authentication
-
-Modern authentication system featuring
-
-- JWT Authentication
-- Protected Routes
-- Login/Register
-- Password Encryption
-
-Repository
-
-https://github.com/sanjaii1/MERN-Authentication
-
----
-
-### 🌐 SEO & Business Website
-
-- Technical SEO
-- Website Optimization
-- Performance
-- Search Visibility
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sanjaii1&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaii1&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sanjaii1&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 GitHub Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjaii1&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sanjaii1&theme=tokyonight&column=7"/>
-
-</p>
-
----
-
-# 📚 Currently Working On
-
-- 🍽 Restaurant ERP
-- 📱 QR Menu Ordering
-- 📊 Inventory Management
-- 💳 Payment Gateway Integration
-- 🤖 AI Powered Features
-- 🚀 Next.js Projects
-
----
-
-# 🎯 2026 Goals
-
-- Build Production SaaS Products
-- Master Next.js
-- Learn Microservices
-- Learn Kubernetes
-- Open Source Contributions
-- Reach 500+ GitHub Contributions
-- Build AI-powered Applications
-
----
-
-<p align="center">
-
-⭐ Thanks for visiting my profile!
-
-</p>
+<div align="center">
+<i>Open to full-stack development opportunities and freelance/consulting projects.</i>
+</div>
