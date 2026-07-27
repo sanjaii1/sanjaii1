@@ -1,59 +1,210 @@
+<h1 align="center">Hi 👋, I'm Sanjai Babu S</h1>
 
-<!--
-**sanjaii1/sanjaii1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Full Stack MERN Developer • Next.js • React • Node.js • Building Modern SaaS Applications
+</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm SANJAI BABU S</h1>
-<h3 align="center">MERN Stack Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaii1&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaii1" /> </p>
-
-- 🔭 I’m currently working on [Authentication](https://github.com/sanjaii1/MERN-Authentication)
-
-- 🌱 I’m currently learning **React.js, Next.js, Node.js, MongoDB, Express.js ,**
-
-- 💬 Ask me about **React, Express, Node, MongoDB**
-
-- 📫 How to reach me **bsanjay235@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sanjaii1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjaii1" height="30" width="40" /></a>
-<a href="https://instagram.com/1150ft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1150ft" height="30" width="40" /></a>
+<p align="center">
+Passionate about building scalable web applications, intuitive user experiences, and high-performance backend systems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+<a href="https://github.com/sanjaii1">
+<img src="https://komarev.com/ghpvc/?username=sanjaii1&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjaii1&show_icons=true&locale=en&layout=compact" alt="sanjaii1" /></p>
+<a href="https://github.com/sanjaii1?tab=followers">
+<img src="https://img.shields.io/github/followers/sanjaii1?style=for-the-badge"/>
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjaii1&show_icons=true&locale=en" alt="sanjaii1" /></p>
+<a href="https://github.com/sanjaii1">
+<img src="https://img.shields.io/github/stars/sanjaii1?style=for-the-badge"/>
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaii1&" alt="sanjaii1" /></p>
+</p>
 
-<hr>
-<h3>Upcoming Projects</h3>
-<ol>
-  <li><strong>Authentication System</strong> (progress)</li>
-  <li>Todo List App</li>
-  <li>E-commerce Website</li>
-  <li>Weather app</li>
-  <li>File uploader</li>
-  <li>Payment Gateway integration</li>
-  <li>Netflix Clone </li>
-  <li>Chat app</li>
-  <li>RESTful Api</li>
-  <li>Blogging Platform</li>
-  <li>Task Management App</li>
-</ol>
+---
+
+# 🚀 About Me
+
+- 💻 Full Stack MERN Developer
+- ⚡ Building scalable SaaS applications
+- 🌱 Currently learning
+  - Next.js
+  - TypeScript
+  - System Design
+  - AI Integrations
+- 🔥 Interested in
+  - Web Applications
+  - SaaS Products
+  - Restaurant POS Systems
+  - SEO & AI Search (AEO/GEO)
+- 💬 Ask me about
+  - React
+  - Next.js
+  - Node.js
+  - Express
+  - MongoDB
+  - REST APIs
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/sanjaii1">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:bsanjay235@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://instagram.com/1150ft">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,js,ts,tailwind,bootstrap,sass"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🍽 Restaurant Management System
+
+A complete Restaurant ERP including
+
+- POS
+- QR Ordering
+- Kitchen Display
+- Bar Management
+- Inventory
+- Multi-Branch Management
+- Billing
+- Reports
+
+**Tech**
+
+React • Node • MongoDB • Redux
+
+---
+
+### 🔐 MERN Authentication
+
+Modern authentication system featuring
+
+- JWT Authentication
+- Protected Routes
+- Login/Register
+- Password Encryption
+
+Repository
+
+https://github.com/sanjaii1/MERN-Authentication
+
+---
+
+### 🌐 SEO & Business Website
+
+- Technical SEO
+- Website Optimization
+- Performance
+- Search Visibility
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sanjaii1&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaii1&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sanjaii1&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjaii1&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sanjaii1&theme=tokyonight&column=7"/>
+
+</p>
+
+---
+
+# 📚 Currently Working On
+
+- 🍽 Restaurant ERP
+- 📱 QR Menu Ordering
+- 📊 Inventory Management
+- 💳 Payment Gateway Integration
+- 🤖 AI Powered Features
+- 🚀 Next.js Projects
+
+---
+
+# 🎯 2026 Goals
+
+- Build Production SaaS Products
+- Master Next.js
+- Learn Microservices
+- Learn Kubernetes
+- Open Source Contributions
+- Reach 500+ GitHub Contributions
+- Build AI-powered Applications
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+</p>
